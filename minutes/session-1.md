@@ -69,7 +69,7 @@ Fullmetal Alchemist
 
 - global temperature shifts
 - When you zoom out far enough
-- Ray Curswell
+- Ray Kurzweill
 	- Live forever
 	- Raise his dead father
 	- Gboard - autocomplete on steroids
